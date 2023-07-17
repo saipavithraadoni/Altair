@@ -21,4 +21,4 @@ VAST challenge 2018 Mini Challenge 2
   </li>
 </ol>
 
-To Run the attached file install Altair Package using **pip install altair**
+To Run the attached **Altair.ipynb** file install Altair Package using **pip install altair**
